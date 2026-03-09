@@ -1,42 +1,38 @@
-# Poertfolio-Me
+# 🌐 Personal Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Ini adalah website portfolio pribadi saya yang menampilkan informasi tentang saya, teknologi yang saya gunakan, serta beberapa project yang pernah saya buat.
 
-## Recommended IDE Setup
+## 🚀 Live Demo
+🔗 https://username.github.io/portfolio-me/
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🧑‍💻 Tentang Saya
+Saya adalah seorang **Frontend Developer** yang berfokus pada pembuatan website modern, responsif, dan interaktif.
 
-## Recommended Browser Setup
+Saya memiliki ketertarikan dalam membangun **user interface yang bersih, animasi yang halus, serta pengalaman pengguna yang nyaman dan intuitif.**
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🛠 Tech Stack
 
-## Type Support for `.vue` Imports in TS
+Project ini dibuat menggunakan:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- Vue
+- TypeScript
+- Tailwind CSS
+- Vite
 
-## Customize configuration
+## ✨ Fitur
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Responsive design
+- Dark mode / Light mode
+- Smooth scroll navigation
+- Animated hero section
+- Project showcase
+- Contact section
 
-## Project Setup
+## 📂 Struktur Project
 
-```sh
-npm install
-```
+## ⚙️ Cara Menjalankan Project
 
-### Compile and Hot-Reload for Development
+Clone repository:
 
-```sh
-npm run dev
-```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+git clone https://github.com/sandyivanotumoka/Portfolio-Sandy-Ivano.git
