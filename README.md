@@ -3,7 +3,7 @@
 Ini adalah website portfolio pribadi saya yang menampilkan informasi tentang saya, teknologi yang saya gunakan, serta beberapa project yang pernah saya buat.
 
 ## 🚀 Live Demo
-🔗 https://username.github.io/portfolio-me/
+🔗 https://sandyivanotumoka.github.io/Portfolio-Sandy-Ivano/
 
 ## 🧑‍💻 Tentang Saya
 Saya adalah seorang **Frontend Developer** yang berfokus pada pembuatan website modern, responsif, dan interaktif.
